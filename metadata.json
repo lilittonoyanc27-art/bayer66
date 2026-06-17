@@ -1,0 +1,6 @@
+{
+  "name": "Հայերեն-Իսպաներեն Խոսակցարան",
+  "description": "Հայերենից իսպաներեն օգտակար արտահայտությունների և բառերի ինտերակտիվ խոսակցարան՝ արտասանությամբ, որոնմամբ և թեստերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
